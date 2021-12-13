@@ -1,5 +1,5 @@
 # ai-ml-for-coders-by-laurence-moroney
-## References & Aknowledgements :
+## References & Aknowledgements 🖋:
 
 Book : AI & Machine Learning For Coders
 
@@ -7,7 +7,7 @@ Author : Laurence Moroney
 
 E-book : [View here !](https://drive.google.com/file/d/13I47jJ1P0TibmrcwHEpSi2fIb-DhQpyE/view?usp=sharing)
 
-## Contents :
+## Contents 📖:
 #### Part I :
 1.  `Chapter 1` => [tf1.ipynb](https://github.com/sauravpanchal/ai-ml-for-coders-by-laurence-moroney/blob/main/tf1.ipynb)
 2.  `Chapter 2` => [tf2.ipynb]
@@ -22,3 +22,5 @@ E-book : [View here !](https://drive.google.com/file/d/13I47jJ1P0TibmrcwHEpSi2fI
 11.  `Chapter 11` => [tf11.ipynb]
 
 #### Part II :
+
+>  THANK YOU for your time ✨.
