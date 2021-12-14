@@ -10,7 +10,7 @@ E-book : [View here !](https://drive.google.com/file/d/13I47jJ1P0TibmrcwHEpSi2fI
 ## Contents 📖:
 #### Part I :
 1.  `Chapter 1` => [tf1.ipynb](https://github.com/sauravpanchal/ai-ml-for-coders-by-laurence-moroney/blob/main/tf1.ipynb)
-2.  `Chapter 2` => [tf2.ipynb]
+2.  `Chapter 2` => [tf2.ipynb](https://github.com/sauravpanchal/ai-ml-for-coders-by-laurence-moroney/blob/main/tf2.ipynb)
 3.  `Chapter 3` => [tf3.ipynb]
 4.  `Chapter 4` => [tf4.ipynb]
 5.  `Chapter 5` => [tf5.ipynb]
